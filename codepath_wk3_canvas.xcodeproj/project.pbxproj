@@ -14,6 +14,7 @@
 		0404AD031C7BFA7200C46E0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0404AD011C7BFA7200C46E0B /* LaunchScreen.storyboard */; };
 		0404AD0E1C7BFA7300C46E0B /* codepath_wk3_canvasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0404AD0D1C7BFA7300C46E0B /* codepath_wk3_canvasTests.swift */; };
 		0404AD191C7BFA7300C46E0B /* codepath_wk3_canvasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0404AD181C7BFA7300C46E0B /* codepath_wk3_canvasUITests.swift */; };
+		0404AD271C7C01C200C46E0B /* CanvasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0404AD261C7C01C200C46E0B /* CanvasViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0404AD141C7BFA7300C46E0B /* codepath_wk3_canvasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = codepath_wk3_canvasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0404AD181C7BFA7300C46E0B /* codepath_wk3_canvasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codepath_wk3_canvasUITests.swift; sourceTree = "<group>"; };
 		0404AD1A1C7BFA7300C46E0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0404AD261C7C01C200C46E0B /* CanvasViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CanvasViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				0404ACF81C7BFA7200C46E0B /* AppDelegate.swift */,
 				0404ACFA1C7BFA7200C46E0B /* ViewController.swift */,
 				0404ACFC1C7BFA7200C46E0B /* Main.storyboard */,
+				0404AD261C7C01C200C46E0B /* CanvasViewController.swift */,
 				0404ACFF1C7BFA7200C46E0B /* Assets.xcassets */,
 				0404AD011C7BFA7200C46E0B /* LaunchScreen.storyboard */,
 				0404AD041C7BFA7200C46E0B /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0404ACFB1C7BFA7200C46E0B /* ViewController.swift in Sources */,
+				0404AD271C7C01C200C46E0B /* CanvasViewController.swift in Sources */,
 				0404ACF91C7BFA7200C46E0B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
